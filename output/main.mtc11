@@ -1,0 +1,7 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8.1}Tokenizing and reperesentation}{\reset@font\mtcSfont 54}{section.8.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {8.2}Fine-tuning BERT on Difference Tasks}{\reset@font\mtcSfont 55}{section.8.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8.2.1}Fine-tune on the sentence pair problem}{\reset@font\mtcSSfont 56}{subsection.8.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8.2.2}Fine-Tune on the sentence pair problem}{\reset@font\mtcSSfont 57}{subsection.8.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8.2.3}Fine-tune on the sentence classification problem}{\reset@font\mtcSSfont 58}{subsection.8.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8.2.4}Fine-tune on the question answering problem}{\reset@font\mtcSSfont 59}{subsection.8.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {8.2.5}Fine-tune on the token classification problem}{\reset@font\mtcSSfont 61}{subsection.8.2.5}}

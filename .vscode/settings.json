@@ -1,0 +1,35 @@
+{
+  "latex-workshop.latex.outDir": "./output",
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "-shell-escape",
+        "-outdir=output",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "LaTeXMK",
+      "tools": ["latexmk"]
+    }
+  ],
+  "latex-workshop.synctex.afterBuild.enabled": true,
+  "latex-workshop.synctex.synctexjs.enabled": true,
+  "latex-workshop.view.pdf.viewer": "tab",  // Dùng internal viewer (có sync)
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.view.pdf.ref.viewer": "tab",
+  "latex-workshop.view.pdf.reload.method": "refresh",
+  "latex-workshop.view.pdf.invert": 0,
+  "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+  "editor.formatOnSave": true,
+  "latex-workshop.chktex.enabled": false,
+  "remote.autoForwardPortsFallback": 0
+}

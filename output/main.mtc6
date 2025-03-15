@@ -1,0 +1,4 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.1}Stochastic gradient descent(SGD)}{\reset@font\mtcSfont 22}{section.3.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.2}Adagrad}{\reset@font\mtcSfont 22}{section.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2.1}Adadelta}{\reset@font\mtcSSfont 23}{subsection.3.2.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3.3}Adam (Adaptive Moment Estimation)}{\reset@font\mtcSfont 23}{section.3.3}}

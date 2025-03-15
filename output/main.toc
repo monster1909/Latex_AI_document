@@ -1,0 +1,91 @@
+\babel@toc {vietnamese}{}\relax 
+\contentsline {part}{I\hspace {1em}ML(Machine Learning)}{6}{part.1}%
+\contentsline {chapter}{\numberline {1}Linear regression}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Gradient descent}{10}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Computational Graph}{12}{chapter.3}%
+\contentsline {part}{II\hspace {1em}DL(Deep Learning)}{15}{part.2}%
+\contentsline {part}{III\hspace {1em}NLP(Natural Language Processing)}{16}{part.3}%
+\contentsline {chapter}{\numberline {1}Thuật toán tách từ}{17}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Byte-Pair Encoding BPE(gpt dùng)}{17}{section.1.1}%
+\contentsline {section}{\numberline {1.2}WordPiece(BERT dùng)}{17}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Chuẩn hóa văn bản}{18}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Tách câu(Sentence segmentation)}{18}{subsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.0.2}Tách token(tokenization)}{18}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Lemmatizaion}{18}{subsection.2.0.3}%
+\contentsline {subsection}{\numberline {2.0.4}Stemming}{19}{subsection.2.0.4}%
+\contentsline {subsection}{\numberline {2.0.5}Lọc stop words}{19}{subsection.2.0.5}%
+\contentsline {subsection}{\numberline {2.0.6}Sửa sai từ(word correction) }{19}{subsection.2.0.6}%
+\contentsline {subsubsection}{Jaccard distance}{19}{section*.6}%
+\contentsline {subsubsection}{Edit distance}{19}{section*.7}%
+\contentsline {subsubsection}{Quy trình sửa sai từ (word correction pipeline)}{20}{section*.8}%
+\contentsline {section}{\numberline {2.1}Bài toán}{20}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Bài toán sinh từ(text Generation)}{20}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Bài toán phân loại cản xúc(Sentiment Classification)}{20}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Làm việc với Tiếng Việt}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}spacy cho Tiếng Việt :}{21}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Thư viện underthesea}{21}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Các thuật toán traning}{22}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Stochastic gradient descent(SGD)}{22}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Adagrad}{22}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Adadelta}{23}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Adam (Adaptive Moment Estimation)}{23}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Vector Semantics và Embeddings}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Vector Semantics}{25}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Vector ngữ nghĩa (Semantic vector)}{26}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Embeddings}{26}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Word2vec}{26}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Continuous Bag Of Words(CBOW)}{27}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}SkipGram}{27}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Glove(Global Vectors for Word Representation)}{30}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Fast test}{30}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Hierarchical softmax}{30}{subsection.4.2.6}%
+\contentsline {chapter}{\numberline {5}Mô hình ngôn ngữ(language model)}{32}{chapter.5}%
+\contentsline {section}{\numberline {5.1}RNN(Recurrent Neural Network)}{32}{section.5.1}%
+\contentsline {section}{\numberline {5.2}LSTM (Long short-term memory)}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.3}GRU(Gated Recurrent Unit)}{35}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Bidirectional RNN}{36}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Deep RNN}{37}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Machine Translation and Attention}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Bài toán dịch máy}{38}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Mô hình dịch máy thống kê(Statitic Machine Translation)}{38}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Dịch máy dùng mạng nơ ron(Neural Translate Machine)}{39}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Cơ chế Attention}{40}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Bleu scores}{40}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Self-Attention}{41}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Cross-Attention}{41}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Transformer}{42}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Transformer Encoder}{43}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Positional Encodings}{43}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Sinusoid}{44}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Scaled dot product attention}{44}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Multi-headed Attention}{45}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}Add \& Norm}{46}{subsection.7.1.5}%
+\contentsline {subsection}{\numberline {7.1.6}Residual Layer(skip connection)}{47}{subsection.7.1.6}%
+\contentsline {subsection}{\numberline {7.1.7}Feed Forward}{48}{subsection.7.1.7}%
+\contentsline {section}{\numberline {7.2}Transformer Decoder}{48}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Decoder Training}{48}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Decoder Inference}{48}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Look Ahead Mask}{49}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}GPT}{50}{subsection.7.2.4}%
+\contentsline {chapter}{\numberline {8}BERT(Bidirectional Encoder Representations from Transformers)}{51}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Tokenizing and reperesentation}{54}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Fine-tuning BERT on Difference Tasks}{55}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Fine-tune on the sentence pair problem}{56}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Fine-Tune on the sentence pair problem}{57}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Fine-tune on the sentence classification problem}{58}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Fine-tune on the question answering problem}{59}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Fine-tune on the token classification problem}{61}{subsection.8.2.5}%
+\contentsline {chapter}{\numberline {9}T5(The Text-To-Text Transfer Transformer)}{62}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Transformer Avanced}{63}{chapter.10}%
+\contentsline {chapter}{\numberline {11}SMT Statitic Machine Translate}{64}{chapter.11}%
+\contentsline {chapter}{\numberline {12}LLM Large Language Models}{65}{chapter.12}%
+\contentsline {part}{IV\hspace {1em}Application}{66}{part.4}%
+\contentsline {chapter}{\numberline {1} Truy vấn thông tin (Information Retrieval)}{67}{chapter.1}%
+\contentsline {chapter}{\numberline {2}RAG (Retrieval Augmented Generation)}{68}{chapter.2}%
+\contentsline {chapter}{\numberline {3}AI Agent}{69}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Reinforcement Learning }{69}{section.3.1}%
+\contentsline {section}{\numberline {3.2}React}{69}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Prompt}{71}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Prompt Element}{71}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}Funtion calling}{71}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Định nghĩa về AI Agent}{74}{section.3.5}%

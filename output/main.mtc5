@@ -1,0 +1,15 @@
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.1}Tách câu(Sentence segmentation)}{\reset@font\mtcSSfont 18}{subsection.2.0.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.2}Tách token(tokenization)}{\reset@font\mtcSSfont 18}{subsection.2.0.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.3}Lemmatizaion}{\reset@font\mtcSSfont 18}{subsection.2.0.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.4}Stemming}{\reset@font\mtcSSfont 19}{subsection.2.0.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.5}Lọc stop words}{\reset@font\mtcSSfont 19}{subsection.2.0.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.0.6}Sửa sai từ(word correction) }{\reset@font\mtcSSfont 19}{subsection.2.0.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Jaccard distance}{\reset@font\mtcSSSfont 19}{section*.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Edit distance}{\reset@font\mtcSSSfont 19}{section*.7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode Quy trình sửa sai từ (word correction pipeline)}{\reset@font\mtcSSSfont 20}{section*.8}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.1}Bài toán}{\reset@font\mtcSfont 20}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.1}Bài toán sinh từ(text Generation)}{\reset@font\mtcSSfont 20}{subsection.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1.2}Bài toán phân loại cản xúc(Sentiment Classification)}{\reset@font\mtcSSfont 20}{subsection.2.1.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2.2}Làm việc với Tiếng Việt}{\reset@font\mtcSfont 21}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.1}spacy cho Tiếng Việt :}{\reset@font\mtcSSfont 21}{subsection.2.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2.2}Thư viện underthesea}{\reset@font\mtcSSfont 21}{subsection.2.2.2}}
