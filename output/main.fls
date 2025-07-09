@@ -872,6 +872,8 @@ OUTPUT output/main.mtc15
 OUTPUT output/main.mtc16
 OUTPUT output/main.mtc17
 OUTPUT output/main.mtc18
+OUTPUT output/main.mtc19
+OUTPUT output/main.mtc20
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vnr17.tfm
 INPUT output/main.toc
 INPUT output/main.toc
@@ -1005,9 +1007,29 @@ INPUT ./BERT_fine_tune.pdf
 INPUT ./BERT_fine_tune.pdf
 INPUT ./BERT_fine_tune.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vntt10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vnti12.tfm
+INPUT ./Action Space.jpg
+INPUT ./Action Space.jpg
+INPUT ./Action Space.jpg
+INPUT ./Action Space.jpg
+INPUT ./Action Space.jpg
+INPUT ./Observations_States Space.jpg
+INPUT ./Observations_States Space.jpg
+INPUT ./Observations_States Space.jpg
+INPUT ./Observations_States Space.jpg
+INPUT ./Observations_States Space.jpg
+INPUT ./TypeOfTask.jpg
+INPUT ./TypeOfTask.jpg
+INPUT ./TypeOfTask.jpg
+INPUT ./TypeOfTask.jpg
+INPUT ./TypeOfTask.jpg
 OUTPUT output/main.maf
 INPUT output/main.mtc
 INPUT output/main.mtc
+INPUT output/main.mtc20
+INPUT output/main.mtc20
+INPUT output/main.mtc19
+INPUT output/main.mtc19
 INPUT output/main.mtc18
 INPUT output/main.mtc18
 INPUT output/main.mtc17
@@ -1076,5 +1098,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr17.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr6.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb

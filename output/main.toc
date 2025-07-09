@@ -89,3 +89,14 @@
 \contentsline {subsection}{\numberline {3.3.1}Prompt Element}{71}{subsection.3.3.1}%
 \contentsline {section}{\numberline {3.4}Funtion calling}{71}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Định nghĩa về AI Agent}{74}{section.3.5}%
+\contentsline {part}{V\hspace {1em}RL (Reinformence Learning)}{75}{part.5}%
+\contentsline {chapter}{\numberline {1}Giới thiệu}{76}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Các thành phần chính - bài toán của RL}{77}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Agent}{78}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Environment}{78}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Action space}{78}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Observations/States Space}{79}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Reward}{79}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Type of tasks}{80}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Learning Algorithm}{81}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Policy}{81}{section.2.8}%
